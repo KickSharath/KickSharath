@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 236">
+<defs>
+<style>
+:root{--bg:#0d1117;--bar:#161b22;--bd:#30363d;--t:#e6edf3;--m:#8b949e;--g:#3fb950;--b:#58a6ff;--y:#e3b341;--p:#d2a8ff}
+@media(prefers-color-scheme:light){:root{--bg:#ffffff;--bar:#f6f8fa;--bd:#d0d7de;--t:#24292f;--m:#57606a;--g:#1a7f37;--b:#0969da;--y:#9a6700;--p:#8250df}}
+.bg{fill:var(--bg)}.bar{fill:var(--bar)}.bd{stroke:var(--bd);stroke-width:.5;fill:none}
+.mn{font-family:"Cascadia Code","Fira Code","Courier New",monospace;font-size:13px}
+.tc{fill:var(--t)}.mc{fill:var(--m)}.gc{fill:var(--g)}.bc{fill:var(--b)}.yc{fill:var(--y)}.pc{fill:var(--p)}
+.cur{fill:var(--b);animation:blink 1s step-end infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+.a1{animation:fade .08s .3s both}
+.a2{animation:fade .08s .9s both}
+.a3{animation:fade .08s 1.6s both}
+.a4{animation:fade .08s 2.0s both}
+.a5{animation:fade .08s 2.3s both}
+.a6{animation:fade .08s 2.6s both}
+.a7{animation:fade .08s 2.9s both}
+.a8{animation:fade .08s 3.3s both}
+.a9{animation:fade .08s 3.7s both}
+@keyframes fade{from{opacity:0;transform:translateY(3px)}to{opacity:1;transform:translateY(0)}}
+</style>
+</defs>
+
+<rect class="bg" width="900" height="236" rx="10"/>
+<rect class="bar" width="900" height="36" rx="10"/>
+<rect class="bar" x="0" y="20" width="900" height="16"/>
+<line class="bd" x1="0" y1="36" x2="900" y2="36"/>
+
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="450" y="23" text-anchor="middle" class="mn mc" font-size="12">sharath@accenture: ~/portfolio</text>
+
+<text class="a1 mn" x="24" y="62"><tspan class="gc">sharath</tspan><tspan class="mc">@accenture</tspan><tspan class="tc"> ~ </tspan><tspan class="bc">$ </tspan><tspan class="tc">whoami</tspan></text>
+
+<text class="a2 mn" x="24" y="84"><tspan class="tc">Rangu Sharath Babu</tspan><tspan class="mc"> · </tspan><tspan class="bc">Full Stack Developer  +  AI / LLM Engineer</tspan><tspan class="mc"> · 3.5+ yrs @ Accenture</tspan></text>
+
+<text class="a3 mn" x="24" y="114"><tspan class="gc">sharath</tspan><tspan class="mc">@accenture</tspan><tspan class="tc"> ~ </tspan><tspan class="bc">$ </tspan><tspan class="tc">cat impact.json</tspan></text>
+
+<text class="a4 mn" x="24" y="136"><tspan class="tc">{  </tspan><tspan class="pc">analyst_effort_saved</tspan><tspan class="tc">: </tspan><tspan class="yc">"~50%"</tspan><tspan class="tc">,  </tspan><tspan class="pc">doc_processing</tspan><tspan class="tc">: </tspan><tspan class="yc">"~40% faster"</tspan><tspan class="tc">  }</tspan></text>
+
+<text class="a5 mn" x="24" y="158"><tspan class="tc">{  </tspan><tspan class="pc">perf_improvement</tspan><tspan class="tc">: </tspan><tspan class="yc">"~30%"</tspan><tspan class="tc">,  </tspan><tspan class="pc">integration_failures</tspan><tspan class="tc">: </tspan><tspan class="yc">"~25% fewer"</tspan><tspan class="tc">  }</tspan></text>
+
+<text class="a6 mn" x="24" y="180"><tspan class="tc">{  </tspan><tspan class="pc">stack</tspan><tspan class="tc">: </tspan><tspan class="yc">["LangGraph", "RAG", "Angular", "FastAPI", "Python"]</tspan><tspan class="tc">  }</tspan></text>
+
+<text class="a7 mn" x="24" y="202"><tspan class="tc">{  </tspan><tspan class="pc">projects</tspan><tspan class="tc">: </tspan><tspan class="yc">["AI Refinery 2.0", "RFP Synthesis", "GenAI ISP", "Digital Twin"]</tspan><tspan class="tc">  }</tspan></text>
+
+<text class="a8 mn" x="24" y="222"><tspan class="gc">sharath</tspan><tspan class="mc">@accenture</tspan><tspan class="tc"> ~ </tspan><tspan class="bc">$ </tspan><tspan class="tc">echo "Open to senior AI/LLM roles"</tspan></text>
+
+<text class="a9 mn" x="24" y="222"><tspan dx="440" class="cur">_</tspan></text>
+</svg>
