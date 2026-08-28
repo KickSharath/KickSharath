@@ -1,5 +1,9 @@
 <div align="center">
-<img src="banner.svg" width="100%" alt="Rangu Sharath Babu — Full Stack Developer and AI Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg" />
+  <img src="banner-dark.svg" width="100%" alt="Rangu Sharath Babu" />
+</picture>
 </div>
 
 <br/>
@@ -22,8 +26,8 @@
 
 Full Stack Developer with **3.5+ years at Accenture Solutions**, building scalable enterprise applications from Figma to production. I work across the complete stack — Angular and React frontends, Python FastAPI backends, and AI engineering: LangGraph agents, RAG pipelines with vector databases and reranking models, and real-time SSE streaming for AI-powered UIs.
 
-**Results from four enterprise products at Accenture:**  
-`~50%` analyst effort reduced via LLM agent automation &nbsp;·&nbsp; `~40%` faster document processing via RAG &nbsp;·&nbsp; `~30%` performance improvement &nbsp;·&nbsp; `~25%` fewer third-party integration failures
+**Results across four enterprise products at Accenture:**  
+`~50%` analyst effort reduced &nbsp;·&nbsp; `~40%` faster document processing &nbsp;·&nbsp; `~30%` performance improvement &nbsp;·&nbsp; `~25%` fewer integration failures
 
 Currently building **[whatif-analyzer](https://github.com/KickSharath/whatif-analyzer)** — an AI assistant that predicts deployment impact before you ship. Open to senior AI / Full Stack engineering roles.
 
@@ -86,24 +90,71 @@ Currently building **[whatif-analyzer](https://github.com/KickSharath/whatif-ana
 
 | Project | Period | Stack | Outcome |
 |:--------|:-------|:------|:--------|
-| **AI Refinery 2.0** — Generative AI / LLM platform | Dec 2025 – Present | React · FastAPI · LangChain · LangGraph · PostgreSQL · SSE | ~50% analyst effort reduced · ~30% perf gain |
-| **RFP Synthesis & DSP** — AI / RAG enterprise system | Jul 2024 – Dec 2025 | Angular · FastAPI · LangChain · Vector DBs · SSE · PostgreSQL | ~40% faster document resolution |
-| **GenAI ISP** — Enterprise workflow automation | Nov 2023 – Jun 2024 | Angular · JavaScript · .NET Core · REST APIs | ~25% fewer integration failures |
+| **AI Refinery 2.0** — Generative AI / LLM platform | Dec 2025 – Present | React · FastAPI · LangChain · LangGraph · PostgreSQL · SSE | ~50% analyst effort · ~30% perf |
+| **RFP Synthesis & DSP** — Enterprise RAG system | Jul 2024 – Dec 2025 | Angular · FastAPI · LangChain · Vector DBs · SSE · PostgreSQL | ~40% faster processing |
+| **GenAI ISP** — Enterprise workflow automation | Nov 2023 – Jun 2024 | Angular · JavaScript · .NET Core · REST APIs | ~25% fewer failures |
 | **Enterprise Digital Twin** — Industrial IoT | Mar 2023 – Oct 2023 | Angular · D3.js · HTML5 · CSS3 · REST APIs | Real-time multi-plant monitoring |
 
 ---
 
 ## Open Source Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-[![whatif-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=KickSharath&repo=whatif-analyzer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/KickSharath/whatif-analyzer)
-[![CashBook](https://github-readme-stats.vercel.app/api/pin/?username=KickSharath&repo=CashBook&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/KickSharath/CashBook)
+**[whatif-analyzer](https://github.com/KickSharath/whatif-analyzer)**
 
-[![LangChain](https://github-readme-stats.vercel.app/api/pin/?username=KickSharath&repo=LangChain&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/KickSharath/LangChain)
-[![KICKBoT](https://github-readme-stats.vercel.app/api/pin/?username=KickSharath&repo=KICKBoT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/KickSharath/KICKBoT)
+AI assistant that predicts the impact of a code or config change before deployment.
 
-</div>
+![Stars](https://img.shields.io/github/stars/KickSharath/whatif-analyzer?style=flat-square&color=58a6ff)
+![Language](https://img.shields.io/github/languages/top/KickSharath/whatif-analyzer?style=flat-square&color=58a6ff)
+![Updated](https://img.shields.io/github/last-commit/KickSharath/whatif-analyzer?style=flat-square&color=58a6ff&label=updated)
+
+`Python` `LangChain` `AI / LLM`
+
+</td>
+<td width="50%" valign="top">
+
+**[CashBook](https://github.com/KickSharath/CashBook)**
+
+Full-stack personal finance tracker with real-time balance updates and analytics.
+
+![Stars](https://img.shields.io/github/stars/KickSharath/CashBook?style=flat-square&color=58a6ff)
+![Language](https://img.shields.io/github/languages/top/KickSharath/CashBook?style=flat-square&color=58a6ff)
+![Updated](https://img.shields.io/github/last-commit/KickSharath/CashBook?style=flat-square&color=58a6ff&label=updated)
+
+`Angular` `FastAPI` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[LangChain](https://github.com/KickSharath/LangChain)**
+
+LangChain experiments, reference implementations, and AI workflow patterns.
+
+![Language](https://img.shields.io/github/languages/top/KickSharath/LangChain?style=flat-square&color=58a6ff)
+![Updated](https://img.shields.io/github/last-commit/KickSharath/LangChain?style=flat-square&color=58a6ff&label=updated)
+
+`Python` `LangChain` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
+**[KICKBoT](https://github.com/KickSharath/KICKBoT)**
+
+JavaScript bot for automated task handling and workflow automation.
+
+![Language](https://img.shields.io/github/languages/top/KickSharath/KICKBoT?style=flat-square&color=58a6ff)
+![Updated](https://img.shields.io/github/last-commit/KickSharath/KICKBoT?style=flat-square&color=58a6ff&label=updated)
+
+`JavaScript` `Automation`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,22 +162,35 @@ Currently building **[whatif-analyzer](https://github.com/KickSharath/whatif-ana
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KickSharath&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KickSharath&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&hide=html,css,ejs" />
+![Followers](https://img.shields.io/github/followers/KickSharath?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=21262d)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-3.5%2B%20Years-58a6ff?style=for-the-badge&labelColor=21262d)
+&nbsp;
+![Projects](https://img.shields.io/badge/Enterprise%20Projects-4-58a6ff?style=for-the-badge&labelColor=21262d)
+&nbsp;
+![Certs](https://img.shields.io/badge/Microsoft%20Certs-4-0078D4?style=for-the-badge&logo=microsoftazure&labelColor=21262d)
 
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=KickSharath&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KickSharath&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
 </div>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KickSharath/KickSharath/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=KickSharath&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=KickSharath&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KickSharath&theme=github-dark-blue&hide_border=true" />
+</picture>
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app/?username=KickSharath&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=KickSharath&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KickSharath&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
+</picture>
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/KickSharath/KickSharath/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/KickSharath/KickSharath/blob/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://github.com/KickSharath/KickSharath/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
@@ -138,11 +202,11 @@ Currently building **[whatif-analyzer](https://github.com/KickSharath/whatif-ana
 
 ![M365](https://img.shields.io/badge/Microsoft%20365%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 &nbsp;
-![AI-900](https://img.shields.io/badge/Azure%20AI%20Fundamentals%20%E2%80%93%20AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AI-900](https://img.shields.io/badge/Azure%20AI%20Fundamentals%20AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 &nbsp;
-![AZ-900](https://img.shields.io/badge/Azure%20Fundamentals%20%E2%80%93%20AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AZ-900](https://img.shields.io/badge/Azure%20Fundamentals%20AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 &nbsp;
-![SC-900](https://img.shields.io/badge/Security%20%26%20Compliance%20%E2%80%93%20SC--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SC-900](https://img.shields.io/badge/Security%20%26%20Compliance%20SC--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
