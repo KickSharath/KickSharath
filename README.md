@@ -140,10 +140,7 @@ JavaScript bot for automated task handling and workflow automation.
 
 <div align="center">
 
-![Experience](https://img.shields.io/badge/Experience-3.5%2B%20Years-58a6ff?style=for-the-badge&labelColor=161b22)
-![Projects](https://img.shields.io/badge/Enterprise%20Projects-4-58a6ff?style=for-the-badge&labelColor=161b22)
-![Certs](https://img.shields.io/badge/Microsoft%20Certs-4-0078D4?style=for-the-badge&labelColor=161b22)
-![Award](https://img.shields.io/badge/Star%20of%20the%20Month-%E2%AD%90%20Accenture-FFB800?style=for-the-badge&labelColor=161b22)
+![Stats](stats.svg)
 
 </div>
 
@@ -157,13 +154,7 @@ JavaScript bot for automated task handling and workflow automation.
 
 ## Certifications
 
-![M365](https://img.shields.io/badge/Microsoft%20365%20Fundamentals-0078D4?style=flat-square&labelColor=161b22)
-&nbsp;
-![AI-900](https://img.shields.io/badge/Azure%20AI%20Fundamentals%20AI--900-0078D4?style=flat-square&labelColor=161b22)
-&nbsp;
-![AZ-900](https://img.shields.io/badge/Azure%20Fundamentals%20AZ--900-0078D4?style=flat-square&labelColor=161b22)
-&nbsp;
-![SC-900](https://img.shields.io/badge/Security%20%26%20Compliance%20SC--900-0078D4?style=flat-square&labelColor=161b22)
+`Microsoft 365 Fundamentals` &nbsp;·&nbsp; `Azure AI Fundamentals — AI-900` &nbsp;·&nbsp; `Azure Fundamentals — AZ-900` &nbsp;·&nbsp; `Security & Compliance — SC-900`
 
 ---
 
