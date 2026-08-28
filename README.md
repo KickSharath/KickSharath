@@ -10,8 +10,6 @@
 
 ![Contact](contact.svg)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=KickSharath&label=Profile+Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 </div>
 
 ---
@@ -154,7 +152,11 @@ JavaScript bot for automated task handling and workflow automation.
 
 ## Certifications
 
-`Microsoft 365 Fundamentals` &nbsp;·&nbsp; `Azure AI Fundamentals — AI-900` &nbsp;·&nbsp; `Azure Fundamentals — AZ-900` &nbsp;·&nbsp; `Security & Compliance — SC-900`
+<div align="center">
+
+![Certifications](certs.svg)
+
+</div>
 
 ---
 
