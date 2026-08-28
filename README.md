@@ -183,7 +183,7 @@ JavaScript bot for automated task handling and workflow automation.
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/KickSharath/KickSharath/output/github-contribution-grid-snake-dark.svg)
+![Terminal](terminal.svg)
 
 </div>
 
