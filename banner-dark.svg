@@ -20,8 +20,8 @@
   <circle cx="740" cy="110" r="4" fill="#58a6ff"/>
   <line x1="610" y1="110" x2="670" y2="110" stroke="#21262d" stroke-width="1"/>
   <line x1="810" y1="110" x2="870" y2="110" stroke="#21262d" stroke-width="1"/>
-  <line x1="740" y1="-20" x2="740" y2="80" stroke="#21262d" stroke-width="1"/>
-  <line x1="740" y1="140" x2="740" y2="240" stroke="#21262d" stroke-width="1"/>
+  <line x1="740" y1="0" x2="740" y2="80" stroke="#21262d" stroke-width="1"/>
+  <line x1="740" y1="140" x2="740" y2="220" stroke="#21262d" stroke-width="1"/>
   <circle cx="610" cy="110" r="3" fill="#58a6ff" opacity=".5"/>
   <circle cx="870" cy="110" r="3" fill="#58a6ff" opacity=".5"/>
   <text class="t1" x="40" y="74" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,sans-serif" font-size="40" font-weight="700" fill="#e6edf3">Rangu Sharath Babu</text>
@@ -38,5 +38,9 @@
     <text x="309" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#79c0ff">FastAPI</text>
     <rect x="348" y="163" width="62" height="24" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
     <text x="379" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#79c0ff">Angular</text>
+    <rect x="420" y="163" width="62" height="24" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="451" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#79c0ff">Python</text>
+    <rect x="492" y="163" width="56" height="24" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="520" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#79c0ff">Docker</text>
   </g>
 </svg>
