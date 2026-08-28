@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220">
+  <defs>
+    <style>
+      .t1{animation:up .7s .1s both cubic-bezier(.2,0,.2,1)}
+      .t2{animation:up .7s .35s both cubic-bezier(.2,0,.2,1)}
+      .t3{animation:up .7s .58s both cubic-bezier(.2,0,.2,1)}
+      .tags{animation:fadein .6s 1s both}
+      @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes fadein{from{opacity:0}to{opacity:1}}
+    </style>
+  </defs>
+  <rect width="900" height="220" fill="#ffffff"/>
+  <rect x="0" y="0" width="900" height="1" fill="#d0d7de"/>
+  <rect x="0" y="219" width="900" height="1" fill="#d0d7de"/>
+  <rect x="0" y="0" width="3" height="220" fill="#0969da"/>
+  <circle cx="740" cy="110" r="130" fill="none" stroke="#e7eaed" stroke-width="1"/>
+  <circle cx="740" cy="110" r="96" fill="none" stroke="#e7eaed" stroke-width="1"/>
+  <circle cx="740" cy="110" r="62" fill="none" stroke="#e7eaed" stroke-width="1"/>
+  <circle cx="740" cy="110" r="28" fill="#f6f8fa"/>
+  <circle cx="740" cy="110" r="4" fill="#0969da"/>
+  <line x1="610" y1="110" x2="670" y2="110" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="810" y1="110" x2="870" y2="110" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="740" y1="0" x2="740" y2="80" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="740" y1="140" x2="740" y2="220" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="610" cy="110" r="3" fill="#0969da" opacity=".5"/>
+  <circle cx="870" cy="110" r="3" fill="#0969da" opacity=".5"/>
+  <text class="t1" x="40" y="74" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,sans-serif" font-size="40" font-weight="700" fill="#24292f">Rangu Sharath Babu</text>
+  <text class="t2" x="40" y="113" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,sans-serif" font-size="17" fill="#57606a">Full Stack Developer  ·  AI / LLM Engineer</text>
+  <text class="t3" x="40" y="143" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,sans-serif" font-size="13" fill="#0969da">Accenture Solutions  ·  Hyderabad, India  ·  3.5+ years</text>
+  <g class="tags">
+    <rect x="40" y="163" width="82" height="24" rx="5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="81" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#0550ae">LangChain</text>
+    <rect x="132" y="163" width="82" height="24" rx="5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="173" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#0550ae">LangGraph</text>
+    <rect x="224" y="163" width="46" height="24" rx="5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="247" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#0550ae">RAG</text>
+    <rect x="280" y="163" width="58" height="24" rx="5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="309" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#0550ae">FastAPI</text>
+    <rect x="348" y="163" width="62" height="24" rx="5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="379" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#0550ae">Angular</text>
+    <rect x="420" y="163" width="62" height="24" rx="5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="451" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#0550ae">Python</text>
+    <rect x="492" y="163" width="56" height="24" rx="5" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="520" y="179" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" fill="#0550ae">Docker</text>
+  </g>
+</svg>
