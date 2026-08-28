@@ -158,12 +158,8 @@ JavaScript bot for automated task handling and workflow automation.
 
 </div>
 
----
-
 <div align="center">
-<sub>
-  <a href="https://linkedin.com/in/rangu-sharath-babu">linkedin.com/in/rangu-sharath-babu</a>
-  &nbsp;·&nbsp;
-  Hyderabad, India
-</sub>
+
+![Footer](footer.svg)
+
 </div>
