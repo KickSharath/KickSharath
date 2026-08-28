@@ -162,38 +162,29 @@ JavaScript bot for automated task handling and workflow automation.
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/KickSharath?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=21262d)
-&nbsp;
-![Experience](https://img.shields.io/badge/Experience-3.5%2B%20Years-58a6ff?style=for-the-badge&labelColor=21262d)
-&nbsp;
-![Projects](https://img.shields.io/badge/Enterprise%20Projects-4-58a6ff?style=for-the-badge&labelColor=21262d)
-&nbsp;
-![Certs](https://img.shields.io/badge/Microsoft%20Certs-4-0078D4?style=for-the-badge&logo=microsoftazure&labelColor=21262d)
+![Followers](https://img.shields.io/github/followers/KickSharath?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=161b22)
+![Experience](https://img.shields.io/badge/Experience-3.5%2B%20Years-58a6ff?style=for-the-badge&labelColor=161b22)
+![Projects](https://img.shields.io/badge/Enterprise%20Projects-4-58a6ff?style=for-the-badge&labelColor=161b22)
+![Certs](https://img.shields.io/badge/Microsoft%20Certs-4-0078D4?style=for-the-badge&logo=microsoftazure&labelColor=161b22&logoColor=white)
 
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=KickSharath&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=KickSharath&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=KickSharath&theme=github-dark-blue&hide_border=true" />
-</picture>
+
+![Streak](https://streak-stats.demolab.com?user=KickSharath&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app/?username=KickSharath&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=KickSharath&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KickSharath&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
-</picture>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=KickSharath&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4)
+
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/KickSharath/KickSharath/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KickSharath/KickSharath/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://github.com/KickSharath/KickSharath/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+
+![Snake](https://raw.githubusercontent.com/KickSharath/KickSharath/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
