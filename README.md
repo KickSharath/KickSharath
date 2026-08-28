@@ -99,11 +99,7 @@ Currently building **[whatif-analyzer](https://github.com/KickSharath/whatif-ana
 
 AI assistant that predicts the impact of a code or config change before deployment.
 
-![Stars](https://img.shields.io/github/stars/KickSharath/whatif-analyzer?style=flat-square&color=58a6ff)
-![Language](https://img.shields.io/github/languages/top/KickSharath/whatif-analyzer?style=flat-square&color=58a6ff)
-![Updated](https://img.shields.io/github/last-commit/KickSharath/whatif-analyzer?style=flat-square&color=58a6ff&label=updated)
-
-`Python` `LangChain` `AI / LLM`
+`Python` · `LangChain` · `AI / LLM`
 
 </td>
 <td width="50%" valign="top">
@@ -112,11 +108,7 @@ AI assistant that predicts the impact of a code or config change before deployme
 
 Full-stack personal finance tracker with real-time balance updates and analytics.
 
-![Stars](https://img.shields.io/github/stars/KickSharath/CashBook?style=flat-square&color=58a6ff)
-![Language](https://img.shields.io/github/languages/top/KickSharath/CashBook?style=flat-square&color=58a6ff)
-![Updated](https://img.shields.io/github/last-commit/KickSharath/CashBook?style=flat-square&color=58a6ff&label=updated)
-
-`Angular` `FastAPI` `MongoDB`
+`Angular` · `FastAPI` · `MongoDB`
 
 </td>
 </tr>
@@ -127,10 +119,7 @@ Full-stack personal finance tracker with real-time balance updates and analytics
 
 LangChain experiments, reference implementations, and AI workflow patterns.
 
-![Language](https://img.shields.io/github/languages/top/KickSharath/LangChain?style=flat-square&color=58a6ff)
-![Updated](https://img.shields.io/github/last-commit/KickSharath/LangChain?style=flat-square&color=58a6ff&label=updated)
-
-`Python` `LangChain` `LLM`
+`Python` · `LangChain` · `LLM`
 
 </td>
 <td width="50%" valign="top">
@@ -139,10 +128,7 @@ LangChain experiments, reference implementations, and AI workflow patterns.
 
 JavaScript bot for automated task handling and workflow automation.
 
-![Language](https://img.shields.io/github/languages/top/KickSharath/KICKBoT?style=flat-square&color=58a6ff)
-![Updated](https://img.shields.io/github/last-commit/KickSharath/KICKBoT?style=flat-square&color=58a6ff&label=updated)
-
-`JavaScript` `Automation`
+`JavaScript` · `Automation`
 
 </td>
 </tr>
@@ -154,10 +140,10 @@ JavaScript bot for automated task handling and workflow automation.
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/KickSharath?style=for-the-badge&label=Followers&color=58a6ff&labelColor=161b22)
 ![Experience](https://img.shields.io/badge/Experience-3.5%2B%20Years-58a6ff?style=for-the-badge&labelColor=161b22)
 ![Projects](https://img.shields.io/badge/Enterprise%20Projects-4-58a6ff?style=for-the-badge&labelColor=161b22)
 ![Certs](https://img.shields.io/badge/Microsoft%20Certs-4-0078D4?style=for-the-badge&labelColor=161b22)
+![Award](https://img.shields.io/badge/Star%20of%20the%20Month-%E2%AD%90%20Accenture-FFB800?style=for-the-badge&labelColor=161b22)
 
 </div>
 
@@ -171,13 +157,13 @@ JavaScript bot for automated task handling and workflow automation.
 
 ## Certifications
 
-![M365](https://img.shields.io/badge/Microsoft%20365%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![M365](https://img.shields.io/badge/Microsoft%20365%20Fundamentals-0078D4?style=flat-square&labelColor=161b22)
 &nbsp;
-![AI-900](https://img.shields.io/badge/Azure%20AI%20Fundamentals%20AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AI-900](https://img.shields.io/badge/Azure%20AI%20Fundamentals%20AI--900-0078D4?style=flat-square&labelColor=161b22)
 &nbsp;
-![AZ-900](https://img.shields.io/badge/Azure%20Fundamentals%20AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AZ-900](https://img.shields.io/badge/Azure%20Fundamentals%20AZ--900-0078D4?style=flat-square&labelColor=161b22)
 &nbsp;
-![SC-900](https://img.shields.io/badge/Security%20%26%20Compliance%20SC--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SC-900](https://img.shields.io/badge/Security%20%26%20Compliance%20SC--900-0078D4?style=flat-square&labelColor=161b22)
 
 ---
 
