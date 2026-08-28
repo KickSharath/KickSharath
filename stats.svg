@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96">
+<defs>
+<style>
+:root{--bg:#161b22;--bd:#30363d;--t:#e6edf3;--m:#8b949e}
+@media(prefers-color-scheme:light){:root{--bg:#f6f8fa;--bd:#d0d7de;--t:#24292f;--m:#57606a}}
+.card{fill:var(--bg);stroke:var(--bd);stroke-width:.5}
+.mn{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.lbl{font-size:10px;fill:var(--m)}
+.val{font-size:28px;font-weight:700}
+.sub{font-size:10px;fill:var(--m)}
+.f1{animation:pop .5s .05s both}.f2{animation:pop .5s .15s both}
+.f3{animation:pop .5s .25s both}.f4{animation:pop .5s .35s both}
+@keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+</style>
+</defs>
+
+<g class="f1">
+<rect class="card" x="32" y="8" width="200" height="80" rx="8"/>
+<rect x="32" y="8" width="200" height="3" rx="2" fill="#58a6ff"/>
+<text class="mn lbl" x="132" y="28" text-anchor="middle">Experience</text>
+<text class="mn val" x="132" y="62" text-anchor="middle" fill="#58a6ff">3.5+</text>
+<text class="mn sub" x="132" y="79" text-anchor="middle">years @ Accenture</text>
+</g>
+
+<g class="f2">
+<rect class="card" x="244" y="8" width="200" height="80" rx="8"/>
+<rect x="244" y="8" width="200" height="3" rx="2" fill="#58a6ff"/>
+<text class="mn lbl" x="344" y="28" text-anchor="middle">Enterprise Projects</text>
+<text class="mn val" x="344" y="62" text-anchor="middle" fill="#58a6ff">4</text>
+<text class="mn sub" x="344" y="79" text-anchor="middle">shipped at Accenture</text>
+</g>
+
+<g class="f3">
+<rect class="card" x="456" y="8" width="200" height="80" rx="8"/>
+<rect x="456" y="8" width="200" height="3" rx="2" fill="#0078D4"/>
+<text class="mn lbl" x="556" y="28" text-anchor="middle">Microsoft Certifications</text>
+<text class="mn val" x="556" y="62" text-anchor="middle" fill="#0078D4">4</text>
+<text class="mn sub" x="556" y="79" text-anchor="middle">AI-900 · AZ-900 · SC-900 · M365</text>
+</g>
+
+<g class="f4">
+<rect class="card" x="668" y="8" width="200" height="80" rx="8"/>
+<rect x="668" y="8" width="200" height="3" rx="2" fill="#D4A017"/>
+<text class="mn lbl" x="768" y="28" text-anchor="middle">Recognition</text>
+<text class="mn" x="768" y="54" text-anchor="middle" fill="#D4A017" font-size="15" font-weight="700">Star of the Month</text>
+<text class="mn sub" x="768" y="72" text-anchor="middle">Accenture Solutions</text>
+</g>
+</svg>
