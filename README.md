@@ -6,19 +6,11 @@
 </picture>
 </div>
 
-<br/>
-
 <div align="center">
 
-<a href="https://linkedin.com/in/rangu-sharath-babu">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26" />
-</a>
-&nbsp;
-<a href="mailto:rangusharathbabu@gmail.com">
-  <img src="https://img.shields.io/badge/rangusharathbabu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="26" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=KickSharath&color=58a6ff&style=flat-square&label=profile+views" height="26" />
+![Contact](contact.svg)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=KickSharath&label=Profile+Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -162,22 +154,10 @@ JavaScript bot for automated task handling and workflow automation.
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/KickSharath?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=161b22)
+![Followers](https://img.shields.io/github/followers/KickSharath?style=for-the-badge&label=Followers&color=58a6ff&labelColor=161b22)
 ![Experience](https://img.shields.io/badge/Experience-3.5%2B%20Years-58a6ff?style=for-the-badge&labelColor=161b22)
 ![Projects](https://img.shields.io/badge/Enterprise%20Projects-4-58a6ff?style=for-the-badge&labelColor=161b22)
-![Certs](https://img.shields.io/badge/Microsoft%20Certs-4-0078D4?style=for-the-badge&logo=microsoftazure&labelColor=161b22&logoColor=white)
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=KickSharath&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=KickSharath&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4)
+![Certs](https://img.shields.io/badge/Microsoft%20Certs-4-0078D4?style=for-the-badge&labelColor=161b22)
 
 </div>
 
